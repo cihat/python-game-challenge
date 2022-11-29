@@ -24,7 +24,6 @@ cities = {
 # Create the screen and set the mode to "logo"
 wn = turtle.Screen()
 wn.mode("logo")
-wn = turtle.Screen()
 wn.bgcolor("lightgreen")
 
 # Hide the default turtle
